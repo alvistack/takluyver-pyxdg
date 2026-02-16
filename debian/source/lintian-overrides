@@ -1,0 +1,5 @@
+python-pyxdg source: file-without-copyright-information
+python-pyxdg source: no-debian-changes
+python-pyxdg source: source-contains-prebuilt-windows-binary
+python-pyxdg source: source-is-missing
+python-pyxdg source: source-package-encodes-python-version

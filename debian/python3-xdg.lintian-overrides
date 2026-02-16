@@ -1,0 +1,4 @@
+python3-xdg: copyright-without-copyright-notice
+python3-xdg: initial-upload-closes-no-bugs
+python3-xdg: no-manual-page
+python3-xdg: zero-byte-file-in-doc-directory
